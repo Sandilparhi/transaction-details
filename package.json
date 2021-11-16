@@ -1,0 +1,22 @@
+{
+  "name": "binance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ethereumjs-common": "^1.5.2",
+    "ethereumjs-tx": "^2.1.2",
+    "express": "^4.17.1",
+    "json-rpc-2.0": "^0.2.19",
+    "mongodb": "^4.1.4",
+    "mongoose": "^6.0.12",
+    "nodemailer": "^6.7.1",
+    "web3": "^1.6.0"
+  }
+}
